@@ -13,7 +13,7 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/trao99"
   icon: "fa-github"
 
 twitter:
@@ -33,12 +33,12 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:rao78@purdue.edu"
   icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://www.linkedin.com/in/trishankrao/"
   icon: "fa-linkedin"
 
 xing:
