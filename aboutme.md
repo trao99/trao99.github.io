@@ -10,7 +10,6 @@ My name is Trishank Rao.
 - Computer Science
 - Machine Intelligence
 - Database and Information Systems
-- 
 
 What else do you need?
 
